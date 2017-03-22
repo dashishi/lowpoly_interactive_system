@@ -1,0 +1,2 @@
+SLIC: 148
+adaptive thinning: 5241
